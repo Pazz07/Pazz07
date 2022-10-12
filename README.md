@@ -4,7 +4,7 @@
 
 <div align="center">
 <p align="justify/left/right/center">
-<img src="..gifs/Pazz07.gif">
+<img src="https://github.com/Pazz07/Pazz07/blob/main/gifs/%40Pazz07.gif">
 
 ### About me
 
