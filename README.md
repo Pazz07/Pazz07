@@ -16,6 +16,8 @@ Hello! my name is Pablo Arvizu, but they only call me Arvizu, a 15 year old boy,
 
 Contact: pabloarvizu808@gmail.com
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pazz07)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 <h2 align="center">Conocimiento</h2>
