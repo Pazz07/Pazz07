@@ -5,6 +5,7 @@
 <div align="center">
 <p align="justify/left/right/center">
 <img src="https://github.com/Pazz07/Pazz07/blob/main/gifs/%40Pazz07.gif">
+<i>Loved the project? Please consider [donating](https://paypal.me/abhisheknaiidu) to help it improve!</i>
 
 ### About me - English
 
