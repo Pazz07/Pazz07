@@ -27,6 +27,7 @@ Hello! my name is Pablo Arvizu, but they only call me Arvizu, a 15 year old boy,
 <img src='https://github.com/Pazz07/Pazz07/blob/main/img/Image_Logo_Java.png' height='50px'>
 </div>
 </br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pazz07&layout=compact)
 ![Pazz07 GitHub stats](https://github-readme-stats.vercel.app/api?username=Pazz07)
 
