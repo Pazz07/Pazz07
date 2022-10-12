@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Pazz07/Pazz07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -20,11 +18,11 @@ Contact: pabloarvizu808@gmail.com
 <p align="center">Languages and Tools</p>
 
 <div align="center">
-<img src='..img/Image_Logo_Html.png' height='50px'>
-<img src='..img/Image_Logo_Css.png' height='50px'>
-<img src='..img/JavaScript_logo.png' height='50px'>
-<img src='..img/Image_Logo_NodeJs.png' height='50px'>
-<img src='..img/Image_Logo_Java.png' height='50px'>
+<img src='https://github.com/Pazz07/Pazz07/blob/main/img/Image_Logo_Html.png' height='50px'>
+<img src='https://github.com/Pazz07/Pazz07/blob/main/img/Image_Logo_Css.png' height='50px'>
+<img src='https://github.com/Pazz07/Pazz07/blob/main/img/JavaScript_logo.png' height='50px'>
+<img src='https://github.com/Pazz07/Pazz07/blob/main/img/Image_Logo_NodeJs.png' height='50px'>
+<img src='https://github.com/Pazz07/Pazz07/blob/main/img/Image_Logo_Java.png' height='50px'>
 </div>
 </br>
 
@@ -44,10 +42,10 @@ Contact: pabloarvizu808@gmail.com
 </a>
 </br>
 <a href="https://www.instagram.com/lordpablo_xd/">
-<img src="https://github.com/Pazz07/pazz_07_web/blob/main/img/Image_Logo_Instagram.png" height='30px'>
+<img src="https://github.com/Pazz07/Pazz07/blob/main/img/Image_Logo_Instagram.png" height='30px'>
 </a>
 <a href="https://www.youtube.com/channel/UCOCGuDADwciaJfnCxWoYGHA?view_as=subscriber">
-<img src="https://github.com/Pazz07/pazz_07_web/blob/main/img/Image_Logo_YouTube.png" height='30px'>
+<img src="https://github.com/Pazz07/Pazz07/blob/main/img/Image_Logo_YouTube.png" height='30px'>
 </a>
 </br>
 </p>
