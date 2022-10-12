@@ -6,12 +6,11 @@
 <p align="justify/left/right/center">
 <img src="https://github.com/Pazz07/Pazz07/blob/main/gifs/%40Pazz07.gif">
 
-### About me
+### About me - English
 
-### Inglés
 Hello! my name is Pablo Arvizu, but they only call me Arvizu, a 15 year old boy, I'm from Mexico, I'm a web developer and a content creator on social media (Related to Discord, video games and programming stuff)
 
-### Español
+### Sobre mi - Español
 
 ¡Hola! mi nombre es Pablo Arvizu, pero solo me dicen Arvizu, un chico de 15 años, soy de mexico, soy desarrollador web y creador de contenido en redes sociales (relacionado con discord, videojuegos y cosas de programacion)
 
