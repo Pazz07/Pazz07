@@ -5,7 +5,7 @@
 <div align="center">
 <p align="justify/left/right/center">
 <img src="https://github.com/Pazz07/Pazz07/blob/main/gifs/%40Pazz07.gif">
-<i>Loved the project? Please consider [donating](https://paypal.me/abhisheknaiidu) to help it improve!</i>
+<i>Loved the project? Please consider [donating](#) to help it improve!</i>
 
 ### About me - English
 
@@ -21,8 +21,8 @@ Contact: pabloarvizu808@gmail.com
 
 ---
 
-<h2 align="center">Conocimiento</h2>
-<p align="center">Lenguajes y Herramientas</p>
+<h2 align="center">Knowledge</h2>
+<p align="center">Languages and Tools</p>
 
 <div align="center">
 <img src='https://github.com/Pazz07/Pazz07/blob/main/img/Image_Logo_Html.png' height='50px'>
