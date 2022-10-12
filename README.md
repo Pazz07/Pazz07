@@ -17,7 +17,7 @@ Hello! my name is Pablo Arvizu, but they only call me Arvizu, a 15 year old boy,
 ---
 
 <h2 align="center">Knowledge</h2>
-<p align="center">Languages and Tools</p>
+<p align="center">Languages, Tools and Stats</p>
 
 <div align="center">
 <img src='https://github.com/Pazz07/Pazz07/blob/main/img/Image_Logo_Html.png' height='50px'>
@@ -25,6 +25,11 @@ Hello! my name is Pablo Arvizu, but they only call me Arvizu, a 15 year old boy,
 <img src='https://github.com/Pazz07/Pazz07/blob/main/img/JavaScript_logo.png' height='50px'>
 <img src='https://github.com/Pazz07/Pazz07/blob/main/img/Image_Logo_NodeJs.png' height='50px'>
 <img src='https://github.com/Pazz07/Pazz07/blob/main/img/Image_Logo_Java.png' height='50px'>
+
+![Pazz07 GitHub stats](https://github-readme-stats.vercel.app/api?username=Pazz07)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pazz07&layout=compact)
+
 </div>
 </br>
 
@@ -51,8 +56,4 @@ Hello! my name is Pablo Arvizu, but they only call me Arvizu, a 15 year old boy,
 </a>
 </br>
 </p>
-
-![Pazz07 GitHub stats](https://github-readme-stats.vercel.app/api?username=Pazz07)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pazz07&layout=compact)
 </div>
