@@ -28,8 +28,8 @@ Hello! my name is Pablo Arvizu, but they only call me Arvizu, a 15 year old boy,
 </div>
 </br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pazz07&layout=compact)</br>
 ![Pazz07 GitHub stats](https://github-readme-stats.vercel.app/api?username=Pazz07)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pazz07&layout=compact)
 
 <div align="center">
 <p align="justify/left/right/center">
