@@ -14,7 +14,8 @@ Hello! my name is Pablo Arvizu, but they only call me Arvizu, a 15 year old boy,
 
 ¡Hola! mi nombre es Pablo Arvizu, pero solo me dicen Arvizu, un chico de 15 años, soy de mexico, soy desarrollador web y creador de contenido en redes sociales (relacionado con discord, videojuegos y cosas de programacion)
 
-Contact: pabloarvizu808@gmail.com
+#### Proyectos 🤖
+- [website](https://github.com/Pazz07/pazz_07_web)
 
 ---
 
