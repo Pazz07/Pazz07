@@ -25,7 +25,7 @@ Hello! my name is Pablo Arvizu, but they only call me Arvizu, a 15 year old boy,
 <img src='https://github.com/Pazz07/Pazz07/blob/main/img/JavaScript_logo.png' height='50px'>
 <img src='https://github.com/Pazz07/Pazz07/blob/main/img/Image_Logo_NodeJs.png' height='50px'>
 <img src='https://github.com/Pazz07/Pazz07/blob/main/img/Image_Logo_Java.png' height='50px'>
-<img src='https://github.com/Pazz07/Pazz07/blob/main/img/C%2B%2B_Logo.png' height='50px'>
+<img src='https://github.com/Pazz07/Pazz07/blob/main/img/Cmasmas_Logo.png' height='50px'>
 <img src='https://github.com/Pazz07/Pazz07/blob/main/img/Python_logo.png' height='50px'>
 <img src='https://github.com/Pazz07/Pazz07/blob/main/img/sql_logo.png' height='50px'>
 <img src='https://github.com/Pazz07/Pazz07/blob/main/img/PHP_logo.png' height='50px'>
