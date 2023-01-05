@@ -6,7 +6,7 @@
 <p align="justify/left/right/center">
 <img src="https://github.com/Pazz07/Pazz07/blob/main/gifs/%40Pazz07.gif">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=EE6DFF&center=verdadero&vCenter=verdadero&width=500&lines=Dessarollador+web;frontend+y+practicando+back-end.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=EE6DFF&center=verdadero&vCenter=verdadero&width=500&lines=Dessarollador+web+frontend+y+practicando+back-end.)](https://git.io/typing-svg)
 
 ### About me - English
 
