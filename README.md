@@ -14,6 +14,7 @@ Hello! my name is Pablo Arvizu, but they only call me Arvizu, a 15 year old boy,
 
 ¡Hola! mi nombre es Pablo Arvizu, pero solo me dicen Arvizu, un chico de 15 años, soy de mexico, soy desarrollador web y creador de contenido en redes sociales (relacionado con discord, videojuegos y cosas de programacion)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V5F3QQL)
 ---
 
 <h2 align="center">Knowledge</h2>
@@ -36,5 +37,4 @@ Hello! my name is Pablo Arvizu, but they only call me Arvizu, a 15 year old boy,
 ![Pazz07 GitHub stats](https://github-readme-stats.vercel.app/api?username=Pazz07)</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pazz07&layout=compact)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V5F3QQL)
 </div>
